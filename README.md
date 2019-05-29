@@ -1,2 +1,2 @@
-# study
-Some project codes related to JAVA learning
+# seckill
+Implementation of SSM Framework for Second Kill Function
